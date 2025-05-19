@@ -46,10 +46,8 @@ With the rise of interactive systems and mental health monitoring tools, real-ti
 ````
 
 3. Run the emotion detection script:
-
    ```bash
    python emotion_recognition.py
-   ```
 
 ---
 
@@ -67,9 +65,9 @@ With the rise of interactive systems and mental health monitoring tools, real-ti
 
 ## 📊 Results
 
-* **Accuracy**: \~92% on the FER-2013 test dataset
-* **Model**: Custom CNN trained on 48x48 grayscale images
-* **Performance**: Real-time detection at \~20 FPS on CPU
+* Accuracy: \~92% on the FER-2013 test dataset
+* Model: Custom CNN trained on 48x48 grayscale images
+* Performance: Real-time detection at \~20 FPS on CPU
 
 ---
 
