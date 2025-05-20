@@ -67,4 +67,5 @@ With the rise of interactive systems and mental health monitoring tools, real-ti
 
 This project is open-source under the MIT License.  
 Built by **Anuja Dugyala**  
-[GitHub](https://github.com/Anuja13009) • [LinkedIn](https://www.linkedin.com/in/anujadugyala/)
+[GitHub](https://github.com/Anuja13009) • [LinkedIn](https://www.linkedin.com/in/anuja-dugyala)
+
