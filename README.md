@@ -29,7 +29,7 @@ With the rise of interactive systems and mental health monitoring tools, real-ti
 
 ## 🎬 Demo
 
-![Demo](https://github.com/Anuja13009/Human-Emotion-Recognition-Project/blob/main/demo.gif)
+![Demo](https://github.com/Anuja13009/Human-Emotion-Recognition-Project/raw/main/demo.gif)
 
 
 ---
