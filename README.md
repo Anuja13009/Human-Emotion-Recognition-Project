@@ -31,6 +31,7 @@ With the rise of interactive systems and mental health monitoring tools, real-ti
 
 ![Demo](https://github.com/Anuja13009/Human-Emotion-Recognition-Project/blob/main/demo.gif)
 
+
 ---
 
 ## 🚀 Getting Started
